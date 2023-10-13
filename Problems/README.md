@@ -7,7 +7,7 @@ Instructions for usage should go as follows:
 
 ### Usage Example
 ```
-/Practice_Problems
+/Problems
   /Algos
     -> CanFitBlocks.ts
 
